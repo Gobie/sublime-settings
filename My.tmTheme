@@ -155,6 +155,17 @@
     </dict>
     <dict>
       <key>name</key>
+      <string>Static variable</string>
+      <key>scope</key>
+      <string>variable.other.readwrite.static</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#0298C9</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
       <string>Instance Method</string>
       <key>scope</key>
       <string>variable.other.method.instance</string>
