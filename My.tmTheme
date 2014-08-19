@@ -223,6 +223,17 @@
     </dict>
     <dict>
       <key>name</key>
+      <string>Builder Closure Library</string>
+      <key>scope</key>
+      <string>variable.other.builder</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#DBCDC5</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
       <string>Keyword</string>
       <key>scope</key>
       <string>keyword</string>
