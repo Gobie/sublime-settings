@@ -11,13 +11,13 @@ settings:
   scope: comment
   settings: {foreground: '#75715E'}
 - name: String
-  scope: string.quoted.single.heredoc, string.quoted.single
+  scope: string.quoted.triple.single, string.quoted.single
   settings: {foreground: '#FAF2A7'}
 - name: String
-  scope: string.quoted.double.heredoc, string.quoted.double
+  scope: string.quoted.triple.double, string.quoted.double
   settings: {foreground: '#F7E857'}
 - name: String
-  scope: string.quoted.script
+  scope: string.quoted.other.script
   settings: {foreground: '#B5B5B1'}
 - name: Number
   scope: constant.numeric
