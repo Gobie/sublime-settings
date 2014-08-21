@@ -83,7 +83,7 @@ settings:
   scope: entity.name.function
   settings: {fontStyle: '', foreground: '#A6E22E'}
 - name: Function argument
-  scope: variable.parameter
+  scope: variable.parameter, meta.function
   settings: {fontStyle: italic, foreground: '#FD971F'}
 - name: Tag name
   scope: entity.name.tag
