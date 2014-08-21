@@ -73,6 +73,12 @@ settings:
 - name: Annotations type
   scope: storage.type.annotation.type
   settings: {fontStyle: normal, foreground: '#696554'}
+- name: Annotation types
+  scope: storage.type.annotation.types
+  settings: {fontStyle: italic, foreground: '#66D9EF'}
+- name: Annotation keywords
+  scope: storage.type.annotation.keywords
+  settings: {fontStyle: normal, foreground: '#6E3F4F'}
 - name: Class name
   scope: entity.name.type
   settings: {fontStyle: underline, foreground: '#A6E22E'}
@@ -98,7 +104,7 @@ settings:
   scope: support.constant
   settings: {fontStyle: '', foreground: '#66D9EF'}
 - name: Library class/type
-  scope: support.type, support.class.native, storage.type.annotation.keywords
+  scope: support.type, support.class.native
   settings: {fontStyle: italic, foreground: '#66D9EF'}
 - name: Library variable
   scope: support.other.variable

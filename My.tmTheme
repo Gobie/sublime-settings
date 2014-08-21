@@ -299,6 +299,32 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Annotation types</string>
+			<key>scope</key>
+			<string>storage.type.annotation.types</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#66D9EF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Annotation keywords</string>
+			<key>scope</key>
+			<string>storage.type.annotation.keywords</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>normal</string>
+				<key>foreground</key>
+				<string>#6E3F4F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Class name</string>
 			<key>scope</key>
 			<string>entity.name.type</string>
@@ -405,7 +431,7 @@
 			<key>name</key>
 			<string>Library class/type</string>
 			<key>scope</key>
-			<string>support.type, support.class.native, storage.type.annotation.keywords</string>
+			<string>support.type, support.class.native</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
