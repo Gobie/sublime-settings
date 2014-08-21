@@ -19,6 +19,9 @@ settings:
 - name: String
   scope: string.quoted.other.script
   settings: {foreground: '#B5B5B1'}
+- name: String
+  scope: string.regexp
+  settings: {foreground: '#FFFF00'}
 - name: Number
   scope: constant.numeric
   settings: {foreground: '#AE81FF'}
