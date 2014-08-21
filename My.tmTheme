@@ -385,7 +385,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CFF1FA</string>
+				<string>#B6ECFA</string>
 			</dict>
 		</dict>
 		<dict>
@@ -405,7 +405,7 @@
 			<key>name</key>
 			<string>Library class/type</string>
 			<key>scope</key>
-			<string>support.type, support.class.native, storage.type.annotation.types</string>
+			<string>support.type, support.class.native, storage.type.annotation.keywords</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
