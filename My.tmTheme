@@ -63,6 +63,8 @@
 			<string>string.quoted.triple.single, string.quoted.single</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#FFFF0005</string>
 				<key>foreground</key>
 				<string>#FAF2A7</string>
 			</dict>
@@ -74,6 +76,8 @@
 			<string>string.quoted.triple.double, string.quoted.double</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#FFFF0005</string>
 				<key>foreground</key>
 				<string>#F7E857</string>
 			</dict>

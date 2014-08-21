@@ -12,10 +12,10 @@ settings:
   settings: {foreground: '#75715E'}
 - name: String
   scope: string.quoted.triple.single, string.quoted.single
-  settings: {foreground: '#FAF2A7'}
+  settings: {foreground: '#FAF2A7', background: '#FFFF0005'}
 - name: String
   scope: string.quoted.triple.double, string.quoted.double
-  settings: {foreground: '#F7E857'}
+  settings: {foreground: '#F7E857', background: '#FFFF0005'}
 - name: String
   scope: string.quoted.other.script
   settings: {foreground: '#B5B5B1'}
