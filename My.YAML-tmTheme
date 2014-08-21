@@ -68,7 +68,7 @@ settings:
   scope: storage.type
   settings: {fontStyle: italic, foreground: '#66D9EF'}
 - name: Annotations type
-  scope: storage.type.annotation.type.coffeescript
+  scope: storage.type.annotation.type
   settings: {fontStyle: normal, foreground: '#00697D'}
 - name: Class name
   scope: entity.name.type

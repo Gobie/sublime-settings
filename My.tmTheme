@@ -277,7 +277,7 @@
 			<key>name</key>
 			<string>Annotations type</string>
 			<key>scope</key>
-			<string>storage.type.annotation.type.coffeescript</string>
+			<string>storage.type.annotation.type</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
