@@ -5,9 +5,9 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>name</key>
-	<string>Monokai</string>
+	<string>Monokai (Gobie)</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monokai</string>
+	<string>theme.dark.monokai.gobie</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -283,7 +283,7 @@
 				<key>fontStyle</key>
 				<string>normal</string>
 				<key>foreground</key>
-				<string>#00697D</string>
+				<string>#696554</string>
 			</dict>
 		</dict>
 		<dict>
@@ -374,7 +374,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#CFF1FA</string>
 			</dict>
 		</dict>
 		<dict>
@@ -394,7 +394,7 @@
 			<key>name</key>
 			<string>Library class/type</string>
 			<key>scope</key>
-			<string>support.type, support.class.native</string>
+			<string>support.type, support.class.native, storage.type.annotation.types</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -586,6 +586,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
+	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347F</string>
 </dict>
 </plist>
