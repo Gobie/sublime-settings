@@ -78,7 +78,7 @@ settings:
   settings: {fontStyle: italic, foreground: '#66D9EF'}
 - name: Annotation keywords
   scope: storage.type.annotation.keywords
-  settings: {fontStyle: normal, foreground: '#6E3F4F'}
+  settings: {fontStyle: normal, foreground: '#3B7F8C'}
 - name: Class name
   scope: entity.name.type
   settings: {fontStyle: underline, foreground: '#A6E22E'}
