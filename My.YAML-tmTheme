@@ -56,10 +56,10 @@ settings:
   scope: variable.other.method.instance
   settings: {foreground: '#B1FABF'}
 - name: User's libraries
-  scope: variable.other.an, variable.other.builder
+  scope: support.other.variable.user
   settings: {foreground: '#E39A9A'}
 - name: Vendor's libraries
-  scope: variable.other.este, variable.other.goog
+  scope: support.other.variable.vendor
   settings: {foreground: '#E0BB9B'}
 - name: Keyword
   scope: keyword

@@ -233,7 +233,7 @@
 			<key>name</key>
 			<string>User's libraries</string>
 			<key>scope</key>
-			<string>variable.other.an, variable.other.builder</string>
+			<string>support.other.variable.user</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -244,7 +244,7 @@
 			<key>name</key>
 			<string>Vendor's libraries</string>
 			<key>scope</key>
-			<string>variable.other.este, variable.other.goog</string>
+			<string>support.other.variable.vendor</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
