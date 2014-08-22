@@ -37,6 +37,9 @@ settings:
 - name: Custom class
   scope: support.class.custom
   settings: {fontStyle: italic bold, foreground: '#0298C9'}
+- name: Variable object key
+  scope: variable.other.object_key.name
+  settings: {foreground: '#BFBFBF'}
 - name: Instance Variable
   scope: variable.other.readwrite.instance
   settings: {foreground: '#B1D8FA'}
@@ -52,15 +55,12 @@ settings:
 - name: Instance Method
   scope: variable.other.method.instance
   settings: {foreground: '#B1FABF'}
-- name: Google Closure Library
-  scope: variable.other.goog
-  settings: {foreground: '#F2BEA2'}
-- name: An Closure Library
-  scope: variable.other.an
-  settings: {foreground: '#DBCDC5'}
-- name: Builder Closure Library
-  scope: variable.other.builder
-  settings: {foreground: '#DBCDC5'}
+- name: User's libraries
+  scope: variable.other.an, variable.other.builder
+  settings: {foreground: '#E39A9A'}
+- name: Vendor's libraries
+  scope: variable.other.este, variable.other.goog
+  settings: {foreground: '#E0BB9B'}
 - name: Keyword
   scope: keyword
   settings: {foreground: '#F92672'}

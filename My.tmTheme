@@ -163,6 +163,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Variable object key</string>
+			<key>scope</key>
+			<string>variable.other.object_key.name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#BFBFBF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Instance Variable</string>
 			<key>scope</key>
 			<string>variable.other.readwrite.instance</string>
@@ -220,35 +231,24 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Google Closure Library</string>
+			<string>User's libraries</string>
 			<key>scope</key>
-			<string>variable.other.goog</string>
+			<string>variable.other.an, variable.other.builder</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F2BEA2</string>
+				<string>#E39A9A</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>An Closure Library</string>
+			<string>Vendor's libraries</string>
 			<key>scope</key>
-			<string>variable.other.an</string>
+			<string>variable.other.este, variable.other.goog</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DBCDC5</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Builder Closure Library</string>
-			<key>scope</key>
-			<string>variable.other.builder</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#DBCDC5</string>
+				<string>#E0BB9B</string>
 			</dict>
 		</dict>
 		<dict>
