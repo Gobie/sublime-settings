@@ -231,6 +231,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Interpolated strings</string>
+			<key>scope</key>
+			<string>punctuation.section.embedded</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#B43DF4</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Keyword</string>
 			<key>scope</key>
 			<string>keyword</string>

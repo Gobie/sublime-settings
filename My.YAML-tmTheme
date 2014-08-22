@@ -55,6 +55,9 @@ settings:
 - name: Vendor's libraries
   scope: support.other.variable.vendor
   settings: {foreground: '#E0BB9B'}
+- name: Interpolated strings
+  scope: punctuation.section.embedded
+  settings: {foreground: '#B43DF4'}
 - name: Keyword
   scope: keyword
   settings: {foreground: '#F92672'}
