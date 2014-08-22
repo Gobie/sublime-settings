@@ -43,15 +43,9 @@ settings:
 - name: Instance Variable
   scope: variable.other.readwrite.instance
   settings: {foreground: '#B1D8FA'}
-- name: Static variable usage
-  scope: variable.other.readwrite.static.usage
-  settings: {foreground: '#0298C9'}
 - name: Class usage
   scope: entity.name.type.class.usage
   settings: {fontStyle: italic, foreground: '#0298C9'}
-- name: Static variable definition
-  scope: variable.other.readwrite.static.definition
-  settings: {foreground: '#A6E22E'}
 - name: Instance Method
   scope: variable.other.method.instance
   settings: {foreground: '#B1FABF'}
