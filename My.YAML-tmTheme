@@ -56,7 +56,7 @@ settings:
   scope: support.other.variable.vendor
   settings: {foreground: '#E0BB9B'}
 - name: Interpolated strings
-  scope: punctuation.section.embedded
+  scope: punctuation.section.embedded, variable.other.template.specifiers
   settings: {foreground: '#B43DF4'}
 - name: Keyword
   scope: keyword
