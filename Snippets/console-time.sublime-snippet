@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+console.time '${1:$TM_FILENAME $TM_LINE_NUMBER}'
+$SELECTION
+console.timeEnd '${1}'
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>console.time</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.coffee</scope>
+	<!-- Optional: Description to show in the menu -->
+	<description>Measure run time console.time</description>
+</snippet>

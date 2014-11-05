@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+@setElementInternal (`/** @type {Element} */`) @dom_.htmlToDocumentFragment ${1:some.template} ${2:args}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>clsetElementInternal</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.coffee</scope>
+  <!-- Optional: Description to show in the menu -->
+  <description>Closure Library setElementInternal</description>
+</snippet>

@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+###*
+	@param {${2:goog.events.Event}} e
+	@protected
+###
+${1:onChange}: (e) ->
+	$0
+	return
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cllistener</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.coffee</scope>
+	<!-- Optional: Description to show in the menu -->
+	<description>Closure Library listener</description>
+</snippet>
+

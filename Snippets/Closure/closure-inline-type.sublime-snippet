@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+(`/** @type {${1:Element}} */`)
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>clinlinetype</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.coffee</scope>
+	<!-- Optional: Description to show in the menu -->
+	<description>Closure Library inline type</description>
+</snippet>
