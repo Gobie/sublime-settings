@@ -1,0 +1,6 @@
+[
+    { "keys": ["f12"],
+        "command": "goto_definition"
+    },
+    { "keys": ["f1"], "command": "git_status" }
+]

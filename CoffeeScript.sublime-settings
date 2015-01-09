@@ -1,0 +1,19 @@
+{
+	"binDir": "/Users/michalbrasna/.nvm/v0.10.32/bin/",
+	"checkSyntaxOnSave": false,
+	"compileDir": false,
+	"compileOnSave": false,
+	"compilePaths": false,
+	"envPATH": "/usr/local/bin",
+	"extensions":
+	[
+		"coffee"
+	],
+	"lintConfFile": false,
+	"lintOnSave": false,
+	"noWrapper": true,
+	"showOutputOnSave": false,
+	"sourceMaps": false,
+	"watchOnModified": 0.5,
+	"watchOnSave": false
+}
