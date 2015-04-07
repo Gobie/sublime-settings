@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+###* @desc ${3:file.coffee}: '${2}' ###
+goog.global.MSG_${1:1234567} = goog.getMsg '${2}'
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>cldefmsg</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.coffee</scope>
+  <!-- Optional: Description to show in the menu -->
+  <description>Closure Library define goog.getMsg</description>
+</snippet>
+
