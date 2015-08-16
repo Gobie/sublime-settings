@@ -3,6 +3,7 @@
 	[
 		"Better CoffeeScript"
 	],
+	"close_windows_when_empty": true,
 	"color_scheme": "Packages/User/My.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
@@ -28,8 +29,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"indent_to_bracket": true,
 	"match_brackets": true,
