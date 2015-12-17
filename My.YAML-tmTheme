@@ -94,9 +94,12 @@ settings:
 - name: Tag attribute
   scope: entity.other.attribute-name
   settings: {fontStyle: '', foreground: '#A6E22E'}
+- name: Library thirdparty function
+  scope: support.function.thirdparty
+  settings: {fontStyle: '', foreground: '#89B55B'}
 - name: Library function
   scope: support.function
-  settings: {fontStyle: '', foreground: '#B6ECFA'}
+  settings: {fontStyle: '', foreground: '#D1F6FF'}
 - name: Library constant
   scope: support.constant
   settings: {fontStyle: '', foreground: '#66D9EF'}

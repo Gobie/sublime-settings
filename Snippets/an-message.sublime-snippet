@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+an.i18n.message goog.global.MSG_${1}, ${2:'format': format}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>amsg</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.coffee</scope>
+  <!-- Optional: Description to show in the menu -->
+  <description>AN i18n message</description>
+</snippet>

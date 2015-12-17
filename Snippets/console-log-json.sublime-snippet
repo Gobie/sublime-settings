@@ -7,6 +7,6 @@ console.log JSON.stringify ${1}, undefined, 2
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <scope>source.coffee</scope>
   <!-- Optional: Description to show in the menu -->
-  <description>console.log JSON.stringify</description>
+  <description>console.log JSON.stringify msg</description>
 </snippet>
 
