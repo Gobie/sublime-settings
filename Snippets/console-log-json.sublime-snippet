@@ -1,12 +1,12 @@
 <snippet>
   <content><![CDATA[
-console.log JSON.stringify ${1}, undefined, 2
+console.log '${1:log}', JSON.stringify ${2}, undefined, 2
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>logjson</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <scope>source.coffee</scope>
   <!-- Optional: Description to show in the menu -->
-  <description>console.log JSON.stringify msg</description>
+  <description>console.log 'desc', JSON.stringify msg</description>
 </snippet>
 
