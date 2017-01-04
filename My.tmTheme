@@ -60,6 +60,19 @@
 			<key>name</key>
 			<string>String</string>
 			<key>scope</key>
+			<string>string.template-string</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FFFF0005</string>
+				<key>foreground</key>
+				<string>#F7E857</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String</string>
+			<key>scope</key>
 			<string>string.quoted.triple.single, string.quoted.single</string>
 			<key>settings</key>
 			<dict>
@@ -187,7 +200,7 @@
 			<key>name</key>
 			<string>Class usage</string>
 			<key>scope</key>
-			<string>entity.name.type.class.usage</string>
+			<string>variable.other.name.class</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>

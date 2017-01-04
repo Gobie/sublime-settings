@@ -11,6 +11,9 @@ settings:
   scope: comment
   settings: {foreground: '#75715E'}
 - name: String
+  scope: string.template-string
+  settings: {foreground: '#F7E857', background: '#FFFF0005'}
+- name: String
   scope: string.quoted.triple.single, string.quoted.single
   settings: {foreground: '#FAF2A7', background: '#FFFF0005'}
 - name: String
@@ -44,7 +47,7 @@ settings:
   scope: variable.other.readwrite.instance
   settings: {foreground: '#B1D8FA'}
 - name: Class usage
-  scope: entity.name.type.class.usage
+  scope: variable.other.name.class
   settings: {fontStyle: italic, foreground: '#0298C9'}
 - name: Instance Method
   scope: variable.other.method.instance

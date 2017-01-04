@@ -1,6 +1,9 @@
 {
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
 	"extensions":
 	[
-		"jsx"
+		"jsx",
+		"js",
+		"flow"
 	]
 }
