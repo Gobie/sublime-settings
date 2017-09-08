@@ -2,7 +2,7 @@
     { "keys": ["f12"],
         "command": "goto_definition"
     },
-    { "keys": ["f1"], "command": "git_status" },
+    { "keys": ["f1"], "command": "gs_show_status" },
     { "keys": ["super+x"], "command": "clipboard_manager_cut" },
     { "keys": ["super+c"], "command": "clipboard_manager_copy" },
     { "keys": ["super+v"], "command": "clipboard_manager_paste" },
