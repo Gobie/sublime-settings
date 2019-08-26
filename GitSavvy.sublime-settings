@@ -20,7 +20,7 @@
                 "windows": "C:/Program Files/Git/cmd/git.exe"
             },
      */
-    "git_path": "",
+    "git_path": "/usr/local/bin/git",
 
     /*
         Change this to `true` when doing dev work on GitSavvy.
